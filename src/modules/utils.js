@@ -16,7 +16,7 @@ const allTasks = () => {
       if (todos.completed) {
         checkBox.setAttribute('checked', 'checked');
       }
-      checkBox.addEventListener('change', () => onchange(todos));
+      checkBox.addEventListener('change', () => onchange(todos)); // no-use-before-define
       todoCard.appendChild(checkBox);
       const description = document.createElement('p');
       if (todos.completed) {
