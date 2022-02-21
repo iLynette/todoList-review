@@ -1,73 +1,57 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# to do List
+> To do list is a simple CRUD application that allows you to add, delete, update tasks that you are supposed to do.
 
-# Project Name
-
-> Description the project.
-
-
+![screenshot](./one.png)
 ## Built With
+- HTML-5
+- CSS3
+- Javacript
+- Webpack
+- Linters
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+## Live Demo
+For the link to the live demo, [Click here](https://ilynette.github.io/todo-list/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+A Web Browser (preferably Google Chrome)
 
-### Install
+### Setup
+- Open your command prompt or terminal and run.
+- Clone the GitHub Repository from <https://github.com/iLynette/todo-list.git>
+- run this commands in your terminal:
+     - `npm install`
+     - `npm run build`
+     - `npm start`
 
 ### Usage
+after running `npm start` the website will be opened automatically on your default browser.
 
 ### Run tests
 
+- To run tests run :
+- npx hint .
+- npx stylelint "**/*.{css,scss}"
+
 ### Deployment
 
-
-
+- Project is deployed using
+- git push <branch_name>
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author**
+- GitHub: [@iLynette](https://github.com/iLynette)
+- Twitter: [@acholah_lynette](https://twitter.com/acholah_lynette)
+- LinkedIn: [acholah lynette](https://www.linkedin.com/in/lynette-acholah/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
+## :memo: License
 This project is [MIT](./MIT.md) licensed.
